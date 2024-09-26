@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN,v4.plex.tv
 DOMAIN-SUFFIX,akineko.cn
 
 # MyList
