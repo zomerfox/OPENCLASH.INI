@@ -1,6 +1,10 @@
-# 代理补充
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,qichiyu.com
++.qichiyu.com
++.guguwangluo.win
++.yattazen.com
++.apphot.cc
++.browserleaks.com
++.firefox.com
++.plex.tv
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
