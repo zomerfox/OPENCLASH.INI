@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
+#ADOBE
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
+
 
 # 360
 DOMAIN-SUFFIX,360.com
