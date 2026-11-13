@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,agedm.io
 DOMAIN,v4.plex.tv
 DOMAIN,clients.plex.tv
 DOMAIN-SUFFIX,plex.direct
-DOMAIN,servers.plex.tv
-DOMAIN-SUFFIX,plex.bz
 DOMAIN-SUFFIX,acgrip.com
 
 # DOMAIN-SUFFIX,sorz.org
