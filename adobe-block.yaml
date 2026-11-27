@@ -1,0 +1,85 @@
+# Adobe 家族进程出站拦截（共享名单，跨机器通用）
+# 用法：放进 mihomo / Clash Party 的 rule-providers（behavior: classical, format: yaml）
+payload:
+  - PROCESS-NAME,32BitMAPIBroker.exe
+  - PROCESS-NAME,64BitMAPIBroker.exe
+  - PROCESS-NAME,Acrobat Elements.exe
+  - PROCESS-NAME,acrobat_sl.exe
+  - PROCESS-NAME,Acrobat.exe
+  - PROCESS-NAME,AcrobatInfo.exe
+  - PROCESS-NAME,AcroBroker.exe
+  - PROCESS-NAME,AcroCEF.exe
+  - PROCESS-NAME,acrodist.exe
+  - PROCESS-NAME,AcroScanBroker.exe
+  - PROCESS-NAME,AcroServicesUpdater.exe
+  - PROCESS-NAME,AcroShareTarget.exe
+  - PROCESS-NAME,AcroTextExtractor.exe
+  - PROCESS-NAME,acrotray.exe
+  - PROCESS-NAME,ADelRCP.exe
+  - PROCESS-NAME,ADNotificationManager.exe
+  - PROCESS-NAME,Adobe Crash Processor.exe
+  - PROCESS-NAME,Adobe Desktop Service.exe
+  - PROCESS-NAME,Adobe Update Helper.exe
+  - PROCESS-NAME,Adobe_Acrobat_Diagnostics.exe
+  - PROCESS-NAME,adobe_licensing_helper.exe
+  - PROCESS-NAME,adobe_licensing_wf_acro.exe
+  - PROCESS-NAME,adobe_licensing_wf_helper_acro.exe
+  - PROCESS-NAME,adobe_licensing_wf_helper.exe
+  - PROCESS-NAME,adobe_licensing_wf.exe
+  - PROCESS-NAME,AdobeARM.exe
+  - PROCESS-NAME,AdobeARMHelper.exe
+  - PROCESS-NAME,AdobeCollabSync.exe
+  - PROCESS-NAME,AdobeFips.exe
+  - PROCESS-NAME,AdobeIPCBroker.exe
+  - PROCESS-NAME,AdobeIPCBrokerCustomHook.exe
+  - PROCESS-NAME,ADSCustomHook.exe
+  - PROCESS-NAME,AGSService.exe
+  - PROCESS-NAME,AIMonitor.exe
+  - PROCESS-NAME,AIRobin.exe
+  - PROCESS-NAME,AISafeModeLauncher.exe
+  - PROCESS-NAME,AISniffer.exe
+  - PROCESS-NAME,amecommand.exe
+  - PROCESS-NAME,armsvc.exe
+  - PROCESS-NAME,CCLibrary.exe
+  - PROCESS-NAME,CCLibraryUninstallHook.exe
+  - PROCESS-NAME,CCXProcess.exe
+  - PROCESS-NAME,CEPHtmlEngine.exe
+  - PROCESS-NAME,convert.exe
+  - PROCESS-NAME,CoreSync.exe
+  - PROCESS-NAME,CoreSyncCustomHook.exe
+  - PROCESS-NAME,CreatePDFPrinterUtility64.exe
+  - PROCESS-NAME,CRLogTransport.exe
+  - PROCESS-NAME,CRWindowsClientService.exe
+  - PROCESS-NAME,Droplet Template.exe
+  - PROCESS-NAME,dynamiclinkmanager.exe
+  - PROCESS-NAME,dynamiclinkmediaserver.exe
+  - PROCESS-NAME,Eula.exe
+  - PROCESS-NAME,flitetranscoder.exe
+  - PROCESS-NAME,FullTrustNotifier.exe
+  - PROCESS-NAME,gccustomhook.exe
+  - PROCESS-NAME,HDCoreCustomHook.exe
+  - PROCESS-NAME,HDHelper.exe
+  - PROCESS-NAME,HTML2PDFWrapFor64Bit.exe
+  - PROCESS-NAME,Illustrator.exe
+  - PROCESS-NAME,ImporterREDServer.exe
+  - PROCESS-NAME,LogCollectorTool.exe
+  - PROCESS-NAME,LogTransport2.exe
+  - PROCESS-NAME,msedgewebview2.exe
+  - PROCESS-NAME,MSRMSPIBroker.exe
+  - PROCESS-NAME,Photoshop.exe
+  - PROCESS-NAME,PhotoshopPrefsManager.exe
+  - PROCESS-NAME,pngquant.exe
+  - PROCESS-NAME,PrintInf64.exe
+  - PROCESS-NAME,RuntimeCustomHook.exe
+  - PROCESS-NAME,Set-up.exe
+  - PROCESS-NAME,Setup.exe
+  - PROCESS-NAME,ShowAppPickerForPDF.exe
+  - PROCESS-NAME,SingleClientServicesUpdater.exe
+  - PROCESS-NAME,sniffer.exe
+  - PROCESS-NAME,TokenResolverx64.exe
+  - PROCESS-NAME,uninstall.exe
+  - PROCESS-NAME,Uninstaller.exe
+  - PROCESS-NAME,vcredist_x64.exe
+  - PROCESS-NAME,vcredist_x86.exe
+  - PROCESS-NAME,WCChromeNativeMessagingHost.exe
+#（注：内容由AI生成）
