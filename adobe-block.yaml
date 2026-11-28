@@ -1,4 +1,4 @@
-# Adobe 进程名单 · 81 条 · 2026-11-28 | 用法：rule-providers，behavior: classical，format: yaml
+# Adobe 进程名单 · 76 条 · 2026-11-28 | 用法：rule-providers，behavior: classical，format: yaml
 payload:
   - PROCESS-NAME,32BitMAPIBroker.exe
   - PROCESS-NAME,64BitMAPIBroker.exe
@@ -43,7 +43,6 @@ payload:
   - PROCESS-NAME,CCLibraryUninstallHook.exe
   - PROCESS-NAME,CCXProcess.exe
   - PROCESS-NAME,CEPHtmlEngine.exe
-  - PROCESS-NAME,convert.exe
   - PROCESS-NAME,CoreSync.exe
   - PROCESS-NAME,CoreSyncCustomHook.exe
   - PROCESS-NAME,CreatePDFPrinterUtility64.exe
@@ -52,6 +51,7 @@ payload:
   - PROCESS-NAME,Droplet Template.exe
   - PROCESS-NAME,dynamiclinkmanager.exe
   - PROCESS-NAME,dynamiclinkmediaserver.exe
+  - PROCESS-NAME,elevated_tracing_service.exe
   - PROCESS-NAME,Eula.exe
   - PROCESS-NAME,flitetranscoder.exe
   - PROCESS-NAME,FullTrustNotifier.exe
@@ -60,24 +60,19 @@ payload:
   - PROCESS-NAME,HDHelper.exe
   - PROCESS-NAME,HTML2PDFWrapFor64Bit.exe
   - PROCESS-NAME,Illustrator.exe
+  - PROCESS-NAME,IllustratorDiagnosys.exe
   - PROCESS-NAME,ImporterREDServer.exe
   - PROCESS-NAME,LogCollectorTool.exe
   - PROCESS-NAME,LogTransport2.exe
-  - PROCESS-NAME,msedgewebview2.exe
   - PROCESS-NAME,MSRMSPIBroker.exe
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,PhotoshopPrefsManager.exe
   - PROCESS-NAME,pngquant.exe
   - PROCESS-NAME,PrintInf64.exe
   - PROCESS-NAME,RuntimeCustomHook.exe
-  - PROCESS-NAME,Set-up.exe
-  - PROCESS-NAME,setup.exe
   - PROCESS-NAME,ShowAppPickerForPDF.exe
   - PROCESS-NAME,SingleClientServicesUpdater.exe
   - PROCESS-NAME,sniffer.exe
   - PROCESS-NAME,TokenResolverx64.exe
-  - PROCESS-NAME,uninstall.exe
-  - PROCESS-NAME,Uninstaller.exe
-  - PROCESS-NAME,vcredist_x64.exe
-  - PROCESS-NAME,vcredist_x86.exe
   - PROCESS-NAME,WCChromeNativeMessagingHost.exe
+  - PROCESS-NAME,XPUInfoIPC.exe
