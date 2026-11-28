@@ -1,5 +1,4 @@
-# Adobe 家族进程出站拦截（共享名单，跨机器通用）
-# 用法：放进 mihomo / Clash Party 的 rule-providers（behavior: classical, format: yaml）
+# Adobe 进程名单 · 81 条 · 2026-11-28 | 用法：rule-providers，behavior: classical，format: yaml
 payload:
   - PROCESS-NAME,32BitMAPIBroker.exe
   - PROCESS-NAME,64BitMAPIBroker.exe
@@ -72,7 +71,7 @@ payload:
   - PROCESS-NAME,PrintInf64.exe
   - PROCESS-NAME,RuntimeCustomHook.exe
   - PROCESS-NAME,Set-up.exe
-  - PROCESS-NAME,Setup.exe
+  - PROCESS-NAME,setup.exe
   - PROCESS-NAME,ShowAppPickerForPDF.exe
   - PROCESS-NAME,SingleClientServicesUpdater.exe
   - PROCESS-NAME,sniffer.exe
@@ -82,4 +81,3 @@ payload:
   - PROCESS-NAME,vcredist_x64.exe
   - PROCESS-NAME,vcredist_x86.exe
   - PROCESS-NAME,WCChromeNativeMessagingHost.exe
-#（注：内容由AI生成）
